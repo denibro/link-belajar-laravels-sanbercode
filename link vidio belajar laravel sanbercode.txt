@@ -52,4 +52,8 @@ https://www.youtube.com/playlist?list=PL8YCzrSDCR7jjhro5k1DRhR76piZ6Oan9
 Auth Laravel 6
 https://www.youtube.com/playlist?list=PL8YCzrSDCR7g59FZKT2OKY99HRfHo9NK9
 
+Auth Laravel 6
+https://www.youtube.com/playlist?list=PL8YCzrSDCR7g59FZKT2OKY99HRfHo9NK9
 
+CRUD dengan Eloquent ORM
+https://www.youtube.com/playlist?list=PL8YCzrSDCR7jjhro5k1DRhR76piZ6Oan9
